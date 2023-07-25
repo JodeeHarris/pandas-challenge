@@ -9,7 +9,9 @@ The script runs through the rows of the two different spreadsheets to locate dat
 
 ## Authors and acknowledgment
 Jodee Harris as Author.
+
 Reza  Abasaltian as my instructor for teaching the basics of coding in Python.
+
 Mark Fullton as a scheduled tutor assisted guiding me to properly format the code.
 ## License
 
